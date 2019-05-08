@@ -136,7 +136,7 @@ Through this repository, we want to put out a list of curated resources which he
 
 ## Contributing
 
-In case you would like to add information to this repository or suggest some ideas please use one of the following options:
+In case you would like to add information to this repository or suggest some ideas, please use one of the following options:
 - [Create an Issue](https://github.com/redhuntlabs/Awesome-Asset-Discovery/issues/new/choose).
 - [Send us Pull Requests](https://github.com/redhuntlabs/Awesome-Asset-Discovery/pulls)
 - Drop an email to contact@redhuntlabs.com 
