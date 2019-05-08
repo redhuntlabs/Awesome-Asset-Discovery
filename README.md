@@ -1,5 +1,4 @@
 # Awesome-Asset-Discovery
-List of Awesome Asset Discovery Resources. 
 [<img src="https://redhuntlabs.com/assets/images/target-audience-512-512x512.png" align="right" width="100">](https://redhuntlabs.com/)
 
 Asset Discovery is the initial phase of any security assessment engagement, be it offensive or defensive. With the evolution of information technology, the scope and definition of assets has also evolved. 
