@@ -134,22 +134,21 @@ Through this repository, we want to put out a list of curated resources which he
 
 ***
 
-
-## [↑](#contents)*Contributing
+## [↑](#contents)Contributing
 
 In case you would like to add information to this repository or suggest some ideas please use one of the following options:
 - [Create an Issue](https://github.com/redhuntlabs/Awesome-Asset-Discovery/issues/new/choose).
 - [Send us Pull Requests](https://github.com/redhuntlabs/Awesome-Asset-Discovery/pulls)
 - Drop an email to awesomeasset@redhuntlabs.com 
 
-## [↑](#contents)*Connect
+## [↑](#contents)Connect
 
 To connect with us:
 - [Website](https://redhuntlabs.com)
 - [Twitter](https://twitter.com/redhuntlabs)
 - [Facebook](https://www.facebook.com/redhunt.labs)
 
-## [↑](#contents)*License
+## [↑](#contents)License
 
 This work is licensed under [**CC0 1.0 Universal**](https://github.com/redhuntlabs/Awesome-Asset-Discovery/blob/master/License.md)
 
