@@ -125,6 +125,7 @@ Through this repository, we want to put out a list of curated resources which he
 - [Pastebin_scraper](https://github.com/Critical-Start/pastebin_scraper): Automated tool to monitor pastebin for interesting information 
 - [Scavenger](https://github.com/rndinfosecguy/Scavenger): Paste sites crawler (bot) looking for leaked credentials
 - [Pwnbin](https://github.com/kahunalu/pwnbin): Python based Pastebin crawler for keywords.
+- [PwnedOrNot](https://github.com/thewhiteh4t/pwnedOrNot): Tool to find passwords for compromised accounts
 
 ## [↑](#contents)Internet Scan / Archived Information
 
