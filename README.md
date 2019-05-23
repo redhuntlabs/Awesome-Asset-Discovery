@@ -11,6 +11,7 @@ Through this repository, we want to put out a list of curated resources which he
 
 ## Contents
 
+ - [Content Discovery](#content-discovery)
  - [IP Address Discovery](#ip-address-discovery)
  - [Domain / Subdomain Discovery](#domain--subdomain-discovery)
  - [Email Discovery](#email-discovery)
@@ -24,6 +25,8 @@ Through this repository, we want to put out a list of curated resources which he
  - [Data Leaks](#data-leaks)
  - [Internet Scan / Archived Information](#internet-scan--archived-information)
 
+## [↑](#contents)Content Discovery
+- [rustbuster](https://github.com/phra/rustbuster): Files, directories and vhost buster written in Rust.
 
 ## [↑](#contents)IP Address Discovery
 
