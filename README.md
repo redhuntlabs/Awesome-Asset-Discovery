@@ -43,6 +43,7 @@ Through this repository, we want to put out a list of curated resources which he
 
 ## [↑](#contents)Domain / Subdomain Discovery
 
+- [SubFinder](https://github.com/subfinder/subfinder): SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
 - [Amass](https://github.com/OWASP/Amass): A subdomain enumeration utility 
 - [Sublist3r](https://github.com/aboul3la/Sublist3r): Subdomains enumeration tool with multiple sources 
 - [Aiodnsbrute](https://github.com/blark/aiodnsbrute): Asynchronous DNS brute force utility 
