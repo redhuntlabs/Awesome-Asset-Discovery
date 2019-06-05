@@ -82,6 +82,8 @@ Through this repository, we want to put out a list of curated resources which he
 - [MicroBurst](https://github.com/NetSPI/MicroBurst): PowerShell based Azure security assessment scripts 
 - [Lyncsmash](https://github.com/nyxgeek/lyncsmash): Tools to enumerate and attack self-hosted Lync/Skype for Business 
 - [Enumeration-as-a-Service](https://github.com/sosdave/Enumeration-as-a-Service): Script for SaaS offering enumeration through DNS queries 
+- [ruler](https://github.com/sensepost/ruler) : A tool to abuse Exchange services
+
 
 ## [↑](#contents)Source Code Aggregators / Search - Information Discovery
 
