@@ -65,6 +65,8 @@ Through this repository, we want to put out a list of curated resources which he
 - [Skrapp](https://www.skrapp.io/): Browser addon to find emails on Linkedin  
 - [Email Extractor](https://chrome.google.com/webstore/detail/email-extractor/jdianbbpnakhcmfkcckaboohfgnngfcc?hl=en): Chrome extension to extract emails from web pages  
 - [Convertcsv](http://convertcsv.com/email-extractor.htm): Online tool to extract email addresses in text, web pages, data files etc. 
+- [linkedin2username](https://github.com/initstring/linkedin2username): OSINT Tool: Generate username lists for companies on LinkedIn
+- [Office365UserEnum](https://bitbucket.org/grimhacker/office365userenum/src/master/):  Enumerate valid usernames from Office 365 using ActiveSync.
 
 ## [↑](#contents)Network / Port Scanning
 
