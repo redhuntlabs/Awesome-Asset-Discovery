@@ -40,6 +40,7 @@ Through this repository, we want to put out a list of curated resources which he
 - [Whois](https://manpages.debian.org/jessie/whois/whois.1.en.html): Command line utility usually used to find information about registered users/assignees of an Internet resource.
 - [ICANN Whois](https://whois.icann.org/en): Whois service by Internet Corporation for Assigned Names and Numbers (ICANN) 
 - Nslookup [Linux](https://manpages.debian.org/jessie/dnsutils/nslookup.1.en.html) / [Windows](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/nslookup): Command line utility usually used for querying the DNS records
+- [bgp](https://bgp.he.net/) : Internet Backbone and Colocation Provider ... Hurricane Electric IP Transit. Our Global Internet Backbone provides IP Transit with low latency, access to thousands of networks, and dual-stack 
 
 ## [↑](#contents)Domain / Subdomain Discovery
 
@@ -92,6 +93,7 @@ Through this repository, we want to put out a list of curated resources which he
 - [Gitrob](https://github.com/michenriksen/gitrob): Reconnaissance tool for GitHub organizations 
 - [Gitlab](https://gitlab.com/explore/projects): Search Gitlab projects 
 - [Publicwww](https://publicwww.com/): Source Code Search Engine 
+- [builtwith](https://builtwith.com/test.com) : Web technology information profiler tool. Find out what a website is built with.
 
 ## [↑](#contents)Cloud Infrastructure Discovery
 
