@@ -116,7 +116,7 @@ Through this repository, we want to put out a list of curated resources which he
 - [Glassdoor](https://www.glassdoor.co.in/Reviews/index.htm): Company review and rating search 
 - [SocialBlade](https://socialblade.com/): Track user statistics for different platforms including YouTube and Twitter 
 - [Social-Searcher](https://www.social-searcher.com/): Social Media Search Engine 
-- [Checkuser](https://checkuser.org)]: Social existence checker
+- [Checkuser](https://checkuser.org): Social existence checker
 
 ## [↑](#contents)Data Leaks
 
