@@ -36,13 +36,16 @@ Through this repository, we want to put out a list of curated resources which he
 - [Bgpview](https://bgpview.io/): Search ASN, IPv4/IPv6 or resource name 
 - [Hurricane Electric BGP Toolkit](https://bgp.he.net/): Keyword to ASN lookup 
 - [Viewdns](https://viewdns.info/): Multiple domain/IP tools 
+- [DNStable](https://dnstable.com): Tool that allows to check all the DNS records.
 - [Ultratools ipv6Info](https://www.ultratools.com/tools/ipv6Info): Multiple information related to IPv6 address 
 - [Whois](https://manpages.debian.org/jessie/whois/whois.1.en.html): Command line utility usually used to find information about registered users/assignees of an Internet resource.
 - [ICANN Whois](https://whois.icann.org/en): Whois service by Internet Corporation for Assigned Names and Numbers (ICANN) 
 - Nslookup [Linux](https://manpages.debian.org/jessie/dnsutils/nslookup.1.en.html) / [Windows](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/nslookup): Command line utility usually used for querying the DNS records
+- [ASlookup](https://aslookup.com) - Discovering all the info about companies infrastructure. IP, CIDR, domains/subs, etc...
 
 ## [↑](#contents)Domain / Subdomain Discovery
 
+- [findsubdomains](http://findsubdomains.com) - Online service that scans the entire internet for subdomains using OSINT mechanics. Also, a big part of the tools that were mentioned above, use their API.
 - [SubFinder](https://github.com/subfinder/subfinder): SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
 - [Amass](https://github.com/OWASP/Amass): A subdomain enumeration utility 
 - [Sublist3r](https://github.com/aboul3la/Sublist3r): Subdomains enumeration tool with multiple sources 
@@ -65,9 +68,11 @@ Through this repository, we want to put out a list of curated resources which he
 - [Skrapp](https://www.skrapp.io/): Browser addon to find emails on Linkedin  
 - [Email Extractor](https://chrome.google.com/webstore/detail/email-extractor/jdianbbpnakhcmfkcckaboohfgnngfcc?hl=en): Chrome extension to extract emails from web pages  
 - [Convertcsv](http://convertcsv.com/email-extractor.htm): Online tool to extract email addresses in text, web pages, data files etc. 
+- [Voilanorbert](https://www.voilanorbert.com) - extensive email finder service
 
 ## [↑](#contents)Network / Port Scanning
 
+- [PortMap](https://portmap.com): Useful por scanning service to check open ports with the services it’s running on.
 - [Zmap](https://github.com/zmap/zmap): A fast network scanner designed for Internet-wide network surveys  
 - [Masscan](https://github.com/robertdavidgraham/masscan): An asynchronously TCP port scanner  
 - [ZMapv6](https://github.com/tumi8/zmap): A modified version of Zmap with IPv6 support.  
