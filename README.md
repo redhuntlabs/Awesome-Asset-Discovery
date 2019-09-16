@@ -132,7 +132,6 @@ Through this repository, we want to put out a list of curated resources which he
 
 ## [↑](#contents)Data Leaks
 
-- [Paste Search Tool](https://inteltechniques.com/OSINT/pastebins.html): Custome Search Engine for paste search
 - [Dumpmon](https://twitter.com/dumpmon): A twitter bot which monitors multiple paste sites for password dumps and other sensitive information  
 - [Pastebin_scraper](https://github.com/Critical-Start/pastebin_scraper): Automated tool to monitor pastebin for interesting information 
 - [Scavenger](https://github.com/rndinfosecguy/Scavenger): Paste sites crawler (bot) looking for leaked credentials
