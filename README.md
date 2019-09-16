@@ -11,6 +11,7 @@ Through this repository, we want to put out a list of curated resources which he
 
 ## Contents
 
+ - [Content Discovery](#content-discovery)
  - [IP Address Discovery](#ip-address-discovery)
  - [Domain / Subdomain Discovery](#domain--subdomain-discovery)
  - [Email Discovery](#email-discovery)
@@ -24,6 +25,8 @@ Through this repository, we want to put out a list of curated resources which he
  - [Data Leaks](#data-leaks)
  - [Internet Scan / Archived Information](#internet-scan--archived-information)
 
+## [↑](#contents)Content Discovery
+- [rustbuster](https://github.com/phra/rustbuster): Files, directories and vhost buster written in Rust.
 
 ## [↑](#contents)IP Address Discovery
 
@@ -40,6 +43,7 @@ Through this repository, we want to put out a list of curated resources which he
 - [Whois](https://manpages.debian.org/jessie/whois/whois.1.en.html): Command line utility usually used to find information about registered users/assignees of an Internet resource.
 - [ICANN Whois](https://whois.icann.org/en): Whois service by Internet Corporation for Assigned Names and Numbers (ICANN) 
 - Nslookup [Linux](https://manpages.debian.org/jessie/dnsutils/nslookup.1.en.html) / [Windows](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/nslookup): Command line utility usually used for querying the DNS records
+- [bgp](https://bgp.he.net/) : Internet Backbone and Colocation Provider ... Hurricane Electric IP Transit. Our Global Internet Backbone provides IP Transit with low latency, access to thousands of networks, and dual-stack 
 
 ## [↑](#contents)Domain / Subdomain Discovery
 
@@ -58,6 +62,8 @@ Through this repository, we want to put out a list of curated resources which he
 - [Wolframalpha](https://www.wolframalpha.com/): Computational knowledge engine 
 - [Project Sonar](https://opendata.rapid7.com/sonar.fdns_v2/): Forward DNS Data 
 - [Project Sonar](https://opendata.rapid7.com/sonar.rdns_v2/): Reverse DNS Data 
+- [GoBuster](https://github.com/OJ/gobuster): Directory/File, DNS and VHost busting tool written in Go
+- [Bluto](https://github.com/darryllane/Bluto): Recon, Subdomain Bruting, Zone Transfers
 
 ## [↑](#contents)Email Discovery
 
@@ -65,6 +71,9 @@ Through this repository, we want to put out a list of curated resources which he
 - [Skrapp](https://www.skrapp.io/): Browser addon to find emails on Linkedin  
 - [Email Extractor](https://chrome.google.com/webstore/detail/email-extractor/jdianbbpnakhcmfkcckaboohfgnngfcc?hl=en): Chrome extension to extract emails from web pages  
 - [Convertcsv](http://convertcsv.com/email-extractor.htm): Online tool to extract email addresses in text, web pages, data files etc. 
+- [linkedin2username](https://github.com/initstring/linkedin2username): OSINT Tool: Generate username lists for companies on LinkedIn
+- [Office365UserEnum](https://bitbucket.org/grimhacker/office365userenum/src/master/):  Enumerate valid usernames from Office 365 using ActiveSync.
+
 
 ## [↑](#contents)Network / Port Scanning
 
@@ -79,6 +88,8 @@ Through this repository, we want to put out a list of curated resources which he
 - [MicroBurst](https://github.com/NetSPI/MicroBurst): PowerShell based Azure security assessment scripts 
 - [Lyncsmash](https://github.com/nyxgeek/lyncsmash): Tools to enumerate and attack self-hosted Lync/Skype for Business 
 - [Enumeration-as-a-Service](https://github.com/sosdave/Enumeration-as-a-Service): Script for SaaS offering enumeration through DNS queries 
+- [ruler](https://github.com/sensepost/ruler) : A tool to abuse Exchange services
+
 
 ## [↑](#contents)Source Code Aggregators / Search - Information Discovery
 
@@ -87,6 +98,7 @@ Through this repository, we want to put out a list of curated resources which he
 - [Gitrob](https://github.com/michenriksen/gitrob): Reconnaissance tool for GitHub organizations 
 - [Gitlab](https://gitlab.com/explore/projects): Search Gitlab projects 
 - [Publicwww](https://publicwww.com/): Source Code Search Engine 
+- [builtwith](https://builtwith.com/test.com) : Web technology information profiler tool. Find out what a website is built with.
 
 ## [↑](#contents)Cloud Infrastructure Discovery
 
@@ -120,8 +132,6 @@ Through this repository, we want to put out a list of curated resources which he
 
 ## [↑](#contents)Data Leaks
 
-- [Password dump](https://publicdbhost.dmca.gripe): Password data dumps  
-- [Paste Search Tool](https://inteltechniques.com/OSINT/pastebins.html): Custom Search Engine for paste search
 - [Dumpmon](https://twitter.com/dumpmon): A twitter bot which monitors multiple paste sites for password dumps and other sensitive information  
 - [Pastebin_scraper](https://github.com/Critical-Start/pastebin_scraper): Automated tool to monitor pastebin for interesting information 
 - [Scavenger](https://github.com/rndinfosecguy/Scavenger): Paste sites crawler (bot) looking for leaked credentials
