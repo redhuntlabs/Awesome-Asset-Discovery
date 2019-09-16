@@ -58,6 +58,8 @@ Through this repository, we want to put out a list of curated resources which he
 - [Wolframalpha](https://www.wolframalpha.com/): Computational knowledge engine 
 - [Project Sonar](https://opendata.rapid7.com/sonar.fdns_v2/): Forward DNS Data 
 - [Project Sonar](https://opendata.rapid7.com/sonar.rdns_v2/): Reverse DNS Data 
+- [GoBuster](https://github.com/OJ/gobuster): Directory/File, DNS and VHost busting tool written in Go
+- [Bluto](https://github.com/darryllane/Bluto): Recon, Subdomain Bruting, Zone Transfers
 
 ## [↑](#contents)Email Discovery
 
