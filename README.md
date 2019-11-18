@@ -9,6 +9,8 @@ We have explored this aspect of **assets** in our [blog post here](https://redhu
 
 Through this repository, we want to put out a list of curated resources which help during asset discovery phase of a security assessment engagement. We welcome suggestions and contributions from the community in terms of resources as well as categories.
 
+**[`To know more about our asset discovery and perimeter security offering, check out nVadr.`](https://redhuntlabs.com/nvadr.html)**
+
 ## Contents
 
  - [Content Discovery](#content-discovery)
