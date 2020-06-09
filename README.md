@@ -1,5 +1,5 @@
 # Awesome Asset Discovery
-[<img src="https://redhuntlabs.com/assets/images/target-audience-512-512x512.png" align="right" width="100">](https://redhuntlabs.com/)
+[<img src="https://i1.wp.com/redhuntlabs.com/wp-content/uploads/2020/05/RedHunt-Logo-Without-Text-Dark.png?w=512&ssl=1" align="right" width="100">](https://redhuntlabs.com/)
 
 Asset Discovery is the initial phase of any security assessment engagement, be it offensive or defensive. With the evolution of information technology, the scope and definition of assets has also evolved. 
 
@@ -9,7 +9,7 @@ We have explored this aspect of **assets** in our [blog post here](https://redhu
 
 Through this repository, we want to put out a list of curated resources which help during asset discovery phase of a security assessment engagement. We welcome suggestions and contributions from the community in terms of resources as well as categories.
 
-**[`To know more about our asset discovery and perimeter security offering, check out nVadr.`](https://redhuntlabs.com/nvadr.html)**
+**[`To know more about our asset discovery and perimeter security offering, check out nVadr.`](https://redhuntlabs.com/nvadr)**
 
 ## Contents
 
