@@ -120,6 +120,7 @@ Through this repository, we want to put out a list of curated resources which he
 
 ## [↑](#contents)Internet Survey Data
 
+- [Project Resonance](https://redhuntlabs.com/project-resonance): RedHunt Labs’s Internet wide surveys to study and understand the security state of the Internet.
 - [Project Sonar](https://opendata.rapid7.com/): Rapid7’s internet-wide surveys data across different services and protocols 
 - [Scans.io](https://scans.io): Internet-Wide Scan Data Repository, hosted by the ZMap Team    
 - [Portradar](https://portradar.packet.tel/): Free and open port scan data by packet.tel 
