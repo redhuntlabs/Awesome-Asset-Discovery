@@ -66,6 +66,7 @@ Through this repository, we want to put out a list of curated resources which he
 - [Project Sonar](https://opendata.rapid7.com/sonar.rdns_v2/): Reverse DNS Data 
 - [GoBuster](https://github.com/OJ/gobuster): Directory/File, DNS and VHost busting tool written in Go
 - [Bluto](https://github.com/darryllane/Bluto): Recon, Subdomain Bruting, Zone Transfers
+- [Wfuzz](https://github.com/xmendez/wfuzz): Web application fuzzer
 
 ## [↑](#contents)Email Discovery
 
@@ -83,6 +84,7 @@ Through this repository, we want to put out a list of curated resources which he
 - [Masscan](https://github.com/robertdavidgraham/masscan): An asynchronously TCP port scanner  
 - [ZMapv6](https://github.com/tumi8/zmap): A modified version of Zmap with IPv6 support.  
 - [Nmap](https://nmap.org/): A free and open source utility for network discovery. The most popular port scanner. 
+- [Zenmap](https://nmap.org/zenmap/): GUI Nmap
 
 ## [↑](#contents)Business Communication Infrastructure Discovery
 
@@ -140,6 +142,7 @@ Through this repository, we want to put out a list of curated resources which he
 - [Scavenger](https://github.com/rndinfosecguy/Scavenger): Paste sites crawler (bot) looking for leaked credentials
 - [Pwnbin](https://github.com/kahunalu/pwnbin): Python based Pastebin crawler for keywords.
 - [PwnedOrNot](https://github.com/thewhiteh4t/pwnedOrNot): Tool to find passwords for compromised accounts
+- [WikiLeaks](https://wikileaks.org/): International non-profit organisation that publishes news leaks and classified media provided by anonymous sources
 
 ## [↑](#contents)Internet Scan / Archived Information
 
