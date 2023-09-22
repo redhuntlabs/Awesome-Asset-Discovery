@@ -144,6 +144,7 @@ Through this repository, we want to put out a list of curated resources which he
 
 ## [↑](#contents)Internet Scan / Archived Information
 
+- [Spyse](https://spyse.com/): Cyberspace search engine that scans the entire web using OSINT
 - [Cachedviews](https://cachedviews.com/): Cached view of pages on the Internet from multiple sources
 - [Wayback Machine](http://web.archive.org/): Internet Archive  
 - [Shodan](http://shodan.io/): Search engine for Internet-connected devices  
