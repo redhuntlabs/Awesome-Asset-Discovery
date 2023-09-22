@@ -41,7 +41,7 @@ Through this repository, we want to put out a list of curated resources which he
 - [Bgpview](https://bgpview.io/): Search ASN, IPv4/IPv6 or resource name 
 - [Hurricane Electric BGP Toolkit](https://bgp.he.net/): Keyword to ASN lookup 
 - [Viewdns](https://viewdns.info/): Multiple domain/IP tools 
-- [Ultratools ipv6Info](https://www.ultratools.com/tools/ipv6Info): Multiple information related to IPv6 address 
+- [DNSChecker ipv6Info](https://dnschecker.org/ipv6-whois-lookup.php): Multiple information related to IPv6 address 
 - [Whois](https://manpages.debian.org/jessie/whois/whois.1.en.html): Command line utility usually used to find information about registered users/assignees of an Internet resource.
 - [ICANN Whois](https://whois.icann.org/en): Whois service by Internet Corporation for Assigned Names and Numbers (ICANN) 
 - Nslookup [Linux](https://manpages.debian.org/jessie/dnsutils/nslookup.1.en.html) / [Windows](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/nslookup): Command line utility usually used for querying the DNS records
