@@ -3,7 +3,7 @@
 
 Asset Discovery is the initial phase of any security assessment engagement, be it offensive or defensive. With the evolution of information technology, the scope and definition of assets has also evolved. 
 
-Earlier the servers, workstations and websites were primary IT assets of an organization, but today this definition is very limiting and should include anything and everything an organization and its entities has their data on (knowingly or unknowingly). The scope of ownership could differ, but it does not limit the attack surface, for example if an organization puts out open source code on Github, they are not the owner of Github but of the data they put under their repositories. In a scenario where some organization secret has been put on this Github account, it could pose a threat equal or more than running a vulnerable service.
+Earlier, the servers, workstations, and websites were primary IT assets of an organization, but today this definition is very limiting and should include anything and everything an organization and its entities has their data on (knowingly or unknowingly). The scope of ownership could differ, but it does not limit the attack surface, for example if an organization puts out open source code on Github, they are not the owner of Github but of the data they put under their repositories. In a scenario where some organization secret has been put on this Github account, it could pose a threat equal or more than running a vulnerable service.
 
 We have explored this aspect of **assets** in our [blog post here](https://redhuntlabs.com/blog/redifining-assets-a-modern-perspective.html).
 
