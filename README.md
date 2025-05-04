@@ -141,6 +141,7 @@ Through this repository, we want to put out a list of curated resources which he
 - [Scavenger](https://github.com/rndinfosecguy/Scavenger): Paste sites crawler (bot) looking for leaked credentials
 - [Pwnbin](https://github.com/kahunalu/pwnbin): Python based Pastebin crawler for keywords.
 - [PwnedOrNot](https://github.com/thewhiteh4t/pwnedOrNot): Tool to find passwords for compromised accounts
+- [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - Free cybercrime intelligence toolset to check if a specific email address or domain was compromised in a global Infostealer malware attack. 
 
 ## [↑](#contents)Internet Scan / Archived Information
 
