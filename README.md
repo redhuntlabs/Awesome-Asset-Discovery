@@ -50,6 +50,7 @@ Through this repository, we want to put out a list of curated resources which he
 ## [↑](#contents)Domain / Subdomain Discovery
 
 - [RedHunt Labs Attack Surface Recon API](https://devportal.redhuntlabs.com/home): RedHunt Labs' Recon API offers comprehensive domain intelligence and reconnaissance capabilities. With access to their extensive in-house database of over 6 billion records, including domains, subdomains, third-party SaaS, data leaks, and intelligent correlations, this API empowers you to enhance your Attack Surface Management and InfoSec workflows.
+- [Have I Been Squatted](https://haveibeensquatted.com): A fast domain typosquatting detection tool
 - [SubFinder](https://github.com/subfinder/subfinder): SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
 - [Amass](https://github.com/OWASP/Amass): A subdomain enumeration utility 
 - [Sublist3r](https://github.com/aboul3la/Sublist3r): Subdomains enumeration tool with multiple sources 
@@ -59,6 +60,7 @@ Through this repository, we want to put out a list of curated resources which he
 - [Nsec3map](https://github.com/anonion0/nsec3map): A tool to NSEC and NSEC3 walking
 - [Crt.sh](https://crt.sh/?a=1): Domain certificate Search 
 - [Ct-exposer](https://github.com/chris408/ct-exposer): A tool to discovers sub-domains by searching Certificate Transparency logs 
+- [certgrep](https://certgrep.sh): A fast Certificate Transparency Log regex domain lookup tool
 - [Certgraph](https://github.com/lanrat/certgraph): A tool to crawl the graph of certificate Alternate Names 
 - [Appsecco - The art of subdomain enumeration](https://github.com/appsecco/the-art-of-subdomain-enumeration): The supplement material for the book "The art of sub-domain enumeration" 
 - [SSLScrape](https://github.com/jhaddix/sslScrape): A scanning tool to scrape hostnames from SSL certificates 
