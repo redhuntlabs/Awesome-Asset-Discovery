@@ -29,6 +29,8 @@ Through this repository, we want to put out a list of curated resources which he
 
 ## [↑](#contents)Content Discovery
 - [rustbuster](https://github.com/phra/rustbuster): Files, directories and vhost buster written in Rust.
+- [ffuf](https://github.com/ffuf/ffuf): Fast web fuzzer written in Go
+- [feroxbuster](https://github.com/epi052/feroxbuster): A fast, simple, recursive content discovery tool written in Rust. 
 
 ## [↑](#contents)IP Address Discovery
 
@@ -51,7 +53,8 @@ Through this repository, we want to put out a list of curated resources which he
 
 - [RedHunt Labs Attack Surface Recon API](https://devportal.redhuntlabs.com/home): RedHunt Labs' Recon API offers comprehensive domain intelligence and reconnaissance capabilities. With access to their extensive in-house database of over 6 billion records, including domains, subdomains, third-party SaaS, data leaks, and intelligent correlations, this API empowers you to enhance your Attack Surface Management and InfoSec workflows.
 - [SubFinder](https://github.com/subfinder/subfinder): SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
-- [Amass](https://github.com/OWASP/Amass): A subdomain enumeration utility 
+- [Amass](https://github.com/OWASP/Amass): A subdomain enumeration utility
+- [Subdominator](https://github.com/RevoltSecurities/Subdominator): SubDominator helps you discover subdomains associated with a target domain efficiently and with minimal impact for your Bug Bounty 
 - [Sublist3r](https://github.com/aboul3la/Sublist3r): Subdomains enumeration tool with multiple sources 
 - [Aiodnsbrute](https://github.com/blark/aiodnsbrute): Asynchronous DNS brute force utility 
 - [LDNS](https://github.com/NLnetLabs/ldns): A DNS library useful for DNS tool programming 
@@ -80,6 +83,9 @@ Through this repository, we want to put out a list of curated resources which he
 
 ## [↑](#contents)Network / Port Scanning
 
+- [RustScan](https://github.com/bee-san/RustScan): 🤖 The Modern Port Scanner 🤖 
+- [Naabu](https://github.com/projectdiscovery/naabu): A fast port scanner written in go with a focus on reliability and simplicity.
+- [NimsScan](https://github.com/elddy/NimScan/): 🚀 Fast Port Scanner 🚀 
 - [Zmap](https://github.com/zmap/zmap): A fast network scanner designed for Internet-wide network surveys  
 - [Masscan](https://github.com/robertdavidgraham/masscan): An asynchronously TCP port scanner  
 - [ZMapv6](https://github.com/tumi8/zmap): A modified version of Zmap with IPv6 support.  
