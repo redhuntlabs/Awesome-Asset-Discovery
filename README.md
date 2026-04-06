@@ -11,6 +11,7 @@ Through this repository, we want to put out a list of curated resources which he
 
 **[`To know more about our Attack Surface Management platform, check out NVADR.`](https://redhuntlabs.com/nvadr)**
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts including OSINT reconnaissance, asset discovery, and automated security scanning. MIT licensed.
 ## Contents
 
  - [Content Discovery](#content-discovery)
