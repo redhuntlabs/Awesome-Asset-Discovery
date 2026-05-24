@@ -14,6 +14,7 @@ Through this repository, we want to put out a list of curated resources which he
 ## Contents
 
  - [Content Discovery](#content-discovery)
+ - [Web Crawling](#web-crawling)
  - [IP Address Discovery](#ip-address-discovery)
  - [Domain / Subdomain Discovery](#domain--subdomain-discovery)
  - [Email Discovery](#email-discovery)
@@ -26,9 +27,16 @@ Through this repository, we want to put out a list of curated resources which he
  - [Social Media / Employee Profiling](#social-media--employee-profiling)
  - [Data Leaks](#data-leaks)
  - [Internet Scan / Archived Information](#internet-scan--archived-information)
+ - [Attack Surface Management Platforms](#attack-surface-management-platforms)
 
 ## [↑](#contents)Content Discovery
 - [rustbuster](https://github.com/phra/rustbuster): Files, directories and vhost buster written in Rust.
+
+## [↑](#contents)Web Crawling
+
+- [Katana](https://github.com/projectdiscovery/katana): A next-generation crawling and spidering framework from ProjectDiscovery.
+- [gau](https://github.com/lc/gau): Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, Common Crawl and URLScan.
+- [GoSpider](https://github.com/jaeles-project/gospider): Fast web spider written in Go for collecting URLs and discovering web assets.
 
 ## [↑](#contents)IP Address Discovery
 
@@ -149,6 +157,12 @@ Through this repository, we want to put out a list of curated resources which he
 - [Shodan](http://shodan.io/): Search engine for Internet-connected devices  
 - [Censys](https://censys.io/): Another search engine for internet-connected devices  
 - [Zoomeye](https://www.zoomeye.org/): Cyberspace Search Engine  
+
+## [↑](#contents)Attack Surface Management Platforms
+
+- [FullHunt](https://fullhunt.io/): Attack surface database and search engine for discovering internet-exposed assets.
+- [Netlas](https://netlas.io/): Internet intelligence platform for discovering, researching and monitoring internet-exposed assets.
+- [FOFA](https://fofa.info/): Cyberspace search engine for discovering internet-connected assets and services.
 
 ***
 
