@@ -67,6 +67,7 @@ Through this repository, we want to put out a list of curated resources which he
 - [Project Sonar](https://opendata.rapid7.com/sonar.rdns_v2/): Reverse DNS Data 
 - [GoBuster](https://github.com/OJ/gobuster): Directory/File, DNS and VHost busting tool written in Go
 - [Bluto](https://github.com/darryllane/Bluto): Recon, Subdomain Bruting, Zone Transfers
+- [OpenEASD](https://github.com/cybersecify/OpenEASD): External attack surface discovery tool covering DNS, email security (MTA-STS, BIMI, DNSSEC, SPF, DKIM), TLS, SSH, ports, CVEs, subdomain takeover. Self-hostable Docker. MIT licensed.
 
 ## [↑](#contents)Email Discovery
 
