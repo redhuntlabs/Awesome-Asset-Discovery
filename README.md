@@ -50,6 +50,7 @@ Through this repository, we want to put out a list of curated resources which he
 ## [↑](#contents)Domain / Subdomain Discovery
 
 - [RedHunt Labs Attack Surface Recon API](https://devportal.redhuntlabs.com/home): RedHunt Labs' Recon API offers comprehensive domain intelligence and reconnaissance capabilities. With access to their extensive in-house database of over 6 billion records, including domains, subdomains, third-party SaaS, data leaks, and intelligent correlations, this API empowers you to enhance your Attack Surface Management and InfoSec workflows.
+- [DomainIntel](https://domainintel.onrender.com): Real-time domain intelligence API providing RDAP, DNS-over-HTTPS, Certificate Transparency (crt.sh), and bulk domain lookups. Free tier: 100 requests/day.
 - [SubFinder](https://github.com/subfinder/subfinder): SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
 - [Amass](https://github.com/OWASP/Amass): A subdomain enumeration utility 
 - [Sublist3r](https://github.com/aboul3la/Sublist3r): Subdomains enumeration tool with multiple sources 
