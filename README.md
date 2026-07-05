@@ -149,6 +149,7 @@ Through this repository, we want to put out a list of curated resources which he
 - [Shodan](http://shodan.io/): Search engine for Internet-connected devices  
 - [Censys](https://censys.io/): Another search engine for internet-connected devices  
 - [Zoomeye](https://www.zoomeye.org/): Cyberspace Search Engine  
+- [Cerast Intelligence](https://search.cerast-intelligence.com/): Searchable archive of exposed panels and misconfigurations found across domains by continuous internet-wide scanning  
 
 ***
 
