@@ -67,6 +67,7 @@ Through this repository, we want to put out a list of curated resources which he
 - [Project Sonar](https://opendata.rapid7.com/sonar.rdns_v2/): Reverse DNS Data 
 - [GoBuster](https://github.com/OJ/gobuster): Directory/File, DNS and VHost busting tool written in Go
 - [Bluto](https://github.com/darryllane/Bluto): Recon, Subdomain Bruting, Zone Transfers
+- [CC.LA](https://cc.la): Free online toolkit for domain reconnaissance: WHOIS/RDAP lookup, DNS records, name server history, IP WHOIS, SSL certificates, and network diagnostics (ping/traceroute/MTR). No sign-up required.
 
 ## [↑](#contents)Email Discovery
 
