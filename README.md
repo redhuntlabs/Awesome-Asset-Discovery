@@ -133,6 +133,7 @@ Through this repository, we want to put out a list of curated resources which he
 - [SocialBlade](https://socialblade.com/): Track user statistics for different platforms including YouTube and Twitter 
 - [Social-Searcher](https://www.social-searcher.com/): Social Media Search Engine 
 - [Checkuser](https://checkuser.org): Social existence checker
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper): Independent X (Twitter) search, follower export, and monitoring API
 
 ## [↑](#contents)Data Leaks
 
