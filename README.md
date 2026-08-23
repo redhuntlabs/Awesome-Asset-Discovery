@@ -102,6 +102,7 @@ Through this repository, we want to put out a list of curated resources which he
 - [Gitlab](https://gitlab.com/explore/projects): Search Gitlab projects 
 - [Publicwww](https://publicwww.com/): Source Code Search Engine 
 - [builtwith](https://builtwith.com/test.com) : Web technology information profiler tool. Find out what a website is built with.
+- [StackScan](https://www.stackscan.com/) : Search sites by technology, keyword or served asset. Reverse lookup by footprint.
 
 ## [↑](#contents)Cloud Infrastructure Discovery
 
