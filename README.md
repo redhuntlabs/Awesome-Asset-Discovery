@@ -84,6 +84,7 @@ Through this repository, we want to put out a list of curated resources which he
 - [Masscan](https://github.com/robertdavidgraham/masscan): An asynchronously TCP port scanner  
 - [ZMapv6](https://github.com/tumi8/zmap): A modified version of Zmap with IPv6 support.  
 - [Nmap](https://nmap.org/): A free and open source utility for network discovery. The most popular port scanner. 
+- [libmasscan](https://github.com/jas-/libmasscan): Node.js Bindings for Masscan That Run Scans In-Process and Stream Results as JSON Events.
 
 ## [↑](#contents)Business Communication Infrastructure Discovery
 
